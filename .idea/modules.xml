@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Drone_Automation-Border_Patrol.iml" filepath="$PROJECT_DIR$/Drone_Automation-Border_Patrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/borderpatrol/borderpatrol.iml" filepath="$PROJECT_DIR$/borderpatrol/borderpatrol.iml" />
     </modules>
   </component>
 </project>
